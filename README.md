@@ -1,4 +1,5 @@
 # In Género
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b67e22e-de78-4deb-82b7-c81293ca388b/deploy-status)](https://app.netlify.com/sites/comfy-chebakia-837b1b/deploys)
 ## Proyecto final Factoria F5
 ## Introducción:
 * 	Día de comienzo: 26 de junio.
